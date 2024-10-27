@@ -1,0 +1,47 @@
+{
+    "intro_text_header": [
+        "Recipient Created",
+        "Tax Invoice"
+    ],
+    "intro_text_right": [
+        "RELIABLE TRANS SERV P/L", 
+        "ABN: 60-621-619-145",
+        "85 ENTREPRISE CCT" ,
+        "FRASER RISE",
+        "3336"
+    ],
+    "subtotals_total_info_without_GST": {
+        "Tolls (Incl. GST)": 0,
+        "Sub-Total": 0,
+        "Invoice Excl. GST": 0,
+        "GST": 0,
+        "Invoice Incl. GST": 0
+    },
+    "subtotals_total_info_with_GST": {
+        "Tolls (Incl. GST)": 0,
+        "Sub-Total (Incl. GST)": 0,
+        "Invoice Incl. GST": 0
+    },
+    "deductions_header": "Deductions",
+    "deductions_info": {
+        "Deduction RCTI Agreement - Tranzworks": 40,
+        "Deduction For Uniform": 0,
+        "Invoice Excl. GST": 0,
+        "Add GST": 0,
+        "Invoice Incl. GST": 0
+    },
+    "reliable_t_deduction_header": "Deduction By Reliable Transportation Service Pty Ltd",
+    "reliable_t_deduction_info": {
+        "Administrative Fixed Fee": 35.2,
+        "Hire Vehicle": 0,
+        "Add GST": 0,
+        "Invoice Incl. GST": 0
+    },
+    "summary_header": "PAYMENT SUMMARY",
+    "summary_info": {
+        "Amount Payable on Recipient Created Tax Invoices": 0,
+        "Less - TRANZWORKS PTY LTD": 0,
+        "Less - RELIABLE TRANS SERV": 0,
+        "NET AMOUNT DUE": 0
+    }
+}

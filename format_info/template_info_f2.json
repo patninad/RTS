@@ -1,0 +1,50 @@
+{
+  "intro_text": [
+    "Supplier; Reliable Transport Pty Ltd",
+    "ABN: 60621619145",
+    "RECIPIENT CREATED TAX INVOICE"
+  ],
+  "subtotals_total_info_without_GST": {
+    "Total freight charges": 0,
+    "Add GST 10.00%": 0,
+    "Total for this invoice including GST": 0
+  },
+  "subtotals_total_info_with_GST": {
+    "Total freight charges (Incl. GST)": 0,
+    "Total for this invoice including GST": 0
+  },
+  "goods_services_header": "Authorised deduction for Goods and services supplied by JET COURIERS",
+  "goods_services_info": {
+    "Total charges": 0,
+    "Add GST 10.00%": 0,
+    "Total for this invoice including GST": 0
+  },
+  "rcit_deduction_header": "Authorised Deduction for RCIT By Reliable Transportation Service PTY LTD",
+  "rcit_deduction_info": {
+    "Deduction for RCIT Agreement": 15,
+    "Add GST 10.00%": 0,
+    "Total for this invoice including GST": 0
+  },
+  "reliable_t_deduction_header": "Authorised Deduction By Reliable Transportation Service Pty Ltd",
+  "reliable_t_deduction_info": {
+    "Administrative Fixed Fee": 31,
+    "Hire Vehicle": 0,
+    "Add GST 10.00%": 0,
+    "Total for this invoice including GST": 0
+  },
+  "reliable_t_mob_deduction_header": "Authorised Deduction By Reliable Transportation Service Pty Ltd RTS Mob Hubb",
+  "reliable_t_mob_deduction_info": {
+    "Administrative Fixed Fee": 15,
+    "Add GST 10.00%": 0,
+    "Total for this invoice including GST": 0
+  },
+  "remittance_header": "STATEMENT OF ADJUSTMENTS AND REMITTANCE ADVICE",
+  "remittance_info": {
+    "Amount payable on recipient created invoices": 0,
+    "Less amount owing on Goods & Services invoice": 0,
+    "Less amount for RCIT": 0,
+    "Less Amount for Hire Vehicle/Administrative Fixed Fee": 0,
+    "Less Amount for Mob Hubb Fixed Fee": 0,
+    "Amount Remitted for this period": 0
+  }
+}
